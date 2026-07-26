@@ -1,0 +1,34 @@
+Before Login
+Ticket Booking Application
+
+Welcome Guest
+
+Flight Details
+
+-----------------------------------------
+Flight    Source       Destination
+-----------------------------------------
+AI101     Hyderabad    Delhi
+AI202     Chennai      Mumbai
+-----------------------------------------
+
+Please Login to Book Tickets.
+
+[Login]
+After Clicking Login
+Ticket Booking Application
+
+Welcome User
+
+Ticket Booking
+
+-----------------------------------------
+Flight    Source       Destination
+-----------------------------------------
+AI101     Hyderabad    Delhi
+AI202     Chennai      Mumbai
+-----------------------------------------
+
+[Book Ticket]
+
+[Logout]
