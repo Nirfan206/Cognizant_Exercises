@@ -1,1 +1,51 @@
 
+1. Eureka Server Home Page
+System Status : UP
+
+Instances currently registered with Eureka
+
+ACCOUNT-SERVICE
+
+LOAN-SERVICE
+
+GREET-SERVICE
+
+API-GATEWAY
+2. Greet Service
+
+Browser:
+
+http://localhost:8080/greet
+
+Output
+
+Hello World
+3. API Gateway
+
+Browser
+
+http://localhost:9090/greet-service/greet
+
+Output
+
+Hello World
+4. API Gateway Console
+Incoming Request
+
+Method : GET
+
+URI : /greet-service/greet
+
+or
+
+Request Path : /greet-service/greet
+5. Eureka Registered Services
+Instances currently registered with Eureka
+
+ACCOUNT-SERVICE
+
+LOAN-SERVICE
+
+GREET-SERVICE
+
+API-GATEWAY
