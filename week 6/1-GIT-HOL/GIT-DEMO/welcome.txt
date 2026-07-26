@@ -1,0 +1,5 @@
+Welcome to Git.
+
+This is my first Git repository.
+
+Git helps in version control.
